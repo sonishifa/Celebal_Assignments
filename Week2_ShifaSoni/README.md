@@ -51,7 +51,6 @@ Includes 11 distinct, high-quality visualizations:
 8.  **Price Elasticity**: Scatter plot showing price vs. delivery volume.
 9.  **Infrastructure Correlation**: Charging station density vs. deliveries.
 10. **Correlation Heatmap**: Linear relationship matrix between numeric features.
-11. **Clustermap & Pairplot**: Deep-dive feature clustering and scatter distributions.
 
 ### 3. Feature Engineering
 Constructs high-value domain features:
